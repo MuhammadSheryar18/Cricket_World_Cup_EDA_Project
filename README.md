@@ -1,2 +1,3 @@
 # Cricket_World_Cup_EDA_Project
 This project explores the rich history and dynamics of the Cricket World Cup through an in-depth Exploratory Data Analysis (EDA). The dataset spans from the inaugural World Cup in 1975 to the present and includes information on innings, matches, teams, venues, umpires, and notable performances like centuries.
+Explore the data through statistical analysis and data visualization techniques. Clean and preprocess the data impute missing values and remove outliers, Investigate innings, matches, team evolution, venues, umpires, and player styles for a comprehensive understanding of the tournament's dynamics.
